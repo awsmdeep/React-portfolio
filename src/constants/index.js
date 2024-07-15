@@ -6,7 +6,7 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a dedicated and versatile web developer with a passion for creating efficient and user-friendly web applications. With experience in various technologies, including React, Node.js, MongoDB, and more, I strive to continuously learn and adapt to new challenges. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences. 
 
-I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life. Whether it's developing responsive front-end interfaces or optimizing backend performance, I am committed to delivering high-quality code and maintaining best practices. Outside of coding, I am passionate about staying updated with the latest industry trends and exploring new frameworks that can enhance my skill set. 
+I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life.
 `;
 
 
